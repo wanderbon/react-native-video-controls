@@ -1190,7 +1190,7 @@ const styles = {
             flexDirection: 'row',
             alignItems: 'center',
             justifyContent: 'space-between',
-            height: 40,
+            height: '100%',
             width: '100%',
         },
         column: {
@@ -1198,7 +1198,7 @@ const styles = {
             alignItems: 'center',
             justifyContent: 'space-between',
             height: '100%',
-            width: 40,
+            width: '100%,
         },
         vignette: {
             resizeMode: 'stretch'
