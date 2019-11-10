@@ -1190,15 +1190,15 @@ const styles = {
             flexDirection: 'row',
             alignItems: 'center',
             justifyContent: 'space-between',
-            height: null,
-            width: null,
+            height: 0,
+            width: 0,
         },
         column: {
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'space-between',
-            height: null,
-            width: null,
+            height: 0,
+            width: 0,
         },
         vignette: {
             resizeMode: 'stretch'
@@ -1232,7 +1232,7 @@ const styles = {
             alignItems: 'center',
             justifyContent: 'space-between',
             flexDirection: 'row',
-            width: null,
+            width: 0,
             margin: 12,
             marginBottom: 18,
         },
